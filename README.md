@@ -9,3 +9,5 @@
 I am learning web development. This is my first repo.
 
 ## This is my feature1 branch work
+- now work on merge Conflict
+  "Hello from feature1 branch"
